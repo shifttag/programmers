@@ -1,4 +1,4 @@
-class Solution {
+class pcce09 {
     public int solution(int[] wallet, int[] bill) {
         int answer = 0;
         int billmin = Math.min(bill[0], bill[1]);
